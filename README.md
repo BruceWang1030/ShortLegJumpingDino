@@ -3,6 +3,7 @@ SE 101 Final Project: ShortLegDinosaurJump (SLDJ)
 --Anna 20774612 & Bruce20756461--
 •	https://youtu.be/zjBm-U1CKyk
 
+![](se101_project.gif)
 <1.0>
 1. Circuits designed
 3. Set up LiquidCrystal Display
